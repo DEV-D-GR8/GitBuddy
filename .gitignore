@@ -1,0 +1,86 @@
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xcscmblueprint
+*.xcuserstate
+DerivedData/
+.idea/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# AppCode
+#
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Swift Package Manager
+#
+.build/
+Packages/
+.swiftpm/
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+# Add this line if you're using Cocoapods 1.0
+# Podfile.lock/
+
+# Carthage
+#
+Carthage/Build/
+Carthage/Checkouts/
+
+# Fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code Injection
+#
+.sourcery/
+
+# Firebase
+#
+GoogleService-Info.plist
+
+# Misc
+#
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# User-specific files
+#
+*.swp
+*.swo
+*~.nib
+
+# Temporary files
+#
+*~.local
+*~.temp
+*.swp
+*.swo
+
+# Lock Files
+#
+.DS_Store
+*.lock
+*.lockfile
+
