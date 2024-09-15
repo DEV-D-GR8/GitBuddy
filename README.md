@@ -55,7 +55,7 @@ GitBuddy is an iOS application built using UIKit that helps users fetch and view
 
 ## YouTube Demo
 
-Watch the [YouTube demo video]() to see GitBuddy in action. (will be uploaded soon)
+Watch the [YouTube demo video](https://youtu.be/N76edNYSV0k?si=dyrFaWofbj5V2dJ1) to see GitBuddy in action.
 
 ## API
 
